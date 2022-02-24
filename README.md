@@ -1,5 +1,7 @@
 # konverter_suhu_flutter
 
+# Izin dulu kalau mau Copas,wwkwkwkw
+
 A new Flutter project.
 
 ## Getting Started
